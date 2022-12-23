@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Use `npm run server` to start the mock json server.
 
 ## Available Scripts
 
